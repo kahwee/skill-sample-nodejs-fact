@@ -1,14 +1,14 @@
-GetNewFactIntent a fact
-GetNewFactIntent a space fact
-GetNewFactIntent tell me a fact
-GetNewFactIntent tell me a space fact
-GetNewFactIntent give me a fact
-GetNewFactIntent give me a space fact
-GetNewFactIntent tell me trivia
-GetNewFactIntent tell me a space trivia
-GetNewFactIntent give me trivia
-GetNewFactIntent give me a space trivia
-GetNewFactIntent give me some information
-GetNewFactIntent give me some space information
-GetNewFactIntent tell me something
-GetNewFactIntent give me something
+GetSingaporeFactIntent a fact
+GetSingaporeFactIntent a singapore fact
+GetSingaporeFactIntent tell me a fact
+GetSingaporeFactIntent tell me a singapore fact
+GetSingaporeFactIntent give me a fact
+GetSingaporeFactIntent give me a singapore fact
+GetSingaporeFactIntent tell me trivia
+GetSingaporeFactIntent tell me a singapore trivia
+GetSingaporeFactIntent give me trivia
+GetSingaporeFactIntent give me a singapore trivia
+GetSingaporeFactIntent give me some information
+GetSingaporeFactIntent give me some singapore information
+GetSingaporeFactIntent tell me something
+GetSingaporeFactIntent give me something
