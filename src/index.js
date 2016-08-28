@@ -36,7 +36,7 @@ var handlers = {
   'LaunchRequest': function () {
     this.emit('GetFact')
   },
-  'GetNewFactIntent': function () {
+  'GetSingaporeFactIntent': function () {
     this.emit('GetFact')
   },
   'GetFact': function () {
